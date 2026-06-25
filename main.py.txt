@@ -1,0 +1,6 @@
+# Using f-strings for cleaner string formatting 
+name = "John"
+
+# f-string syntax: f"text {variable} text"
+print(f"Hello {name}, Welcome!")
+print(f"Dear {name}, please select one of the options below:")
